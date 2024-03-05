@@ -1,1 +1,1 @@
-- my first attempts on using the proof assistent Lean (and Mathlib) 
+- my first attempts on using the proof assistant Lean (and Mathlib)
